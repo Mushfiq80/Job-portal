@@ -3,7 +3,7 @@
 **Dream-Quest** is a job-hunting platform designed to help users explore, filter, and find their dream jobs effortlessly. Built with **React.js**, it leverages **RESTful APIs**, efficient **React Routing**, and dynamic data handling with **props** and **params**.  
 
 ## 🔗 Live Demo  
-Explore the live version here: [Live Link](#) *(Replace `#` with the actual URL)*  
+Explore the live version here: [Live Link](https://dream-quest-job-eb8590.netlify.app/)
 
 ## 🚀 Features  
 - Fetch and display job listings dynamically using a **RESTful API**.  
