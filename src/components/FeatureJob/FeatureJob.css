@@ -1,0 +1,39 @@
+.feature-job-cards {
+    border: 1px solid #E8E8E8;
+    padding: 20px;
+}
+
+.feature-job-cards img {
+    height: 50px;
+    width: 130px;
+}
+
+.category {
+    display: flex;
+}
+
+.location-salary {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 600;
+    font-size: 18px;
+    color: #757575;
+    
+}
+.location-salary h5{
+    margin-top: 0px;
+    /* margin-bottom: 0px; */
+}
+.category h5{
+    border: 2px solid #7E90FE;
+    border-radius: 8px;
+    padding: 5px;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+.small-logo img {
+
+    height: 24px;
+    width: 24px;
+}

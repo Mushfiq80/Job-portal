@@ -1,0 +1,140 @@
+.home-img img {
+    width: 600px;
+    height: 500px;
+}
+
+.Home-container {
+    text-align: center;
+    display: flex;
+
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    /* width: 100%; */
+    align-items: center;
+    justify-content: space-between;
+
+    margin-bottom: 20px;
+}
+
+.Home-details {
+    max-width: 570px;
+}
+
+.Home-details h2 {
+    font-weight: 800;
+    font-size: 80px;
+    color: #1A1919;
+    margin-bottom: 10px;
+}
+
+.title-purple {
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.Home-details p {
+    font-weight: 500;
+    font-size: 18px;
+    color: #757575;
+}
+
+.btn-primary {
+    width: 140px;
+    height: 50px;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    
+    font-weight: 800;
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.job-category-list {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.job-category-list h2 {
+    font-weight: 800;
+    font-size: 48px;
+}
+
+.job-category-list p {
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+.job-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.job-box {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+    background-color: #e6e6fa;
+}
+
+.job-box h3 {
+    font-weight: 800;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.job-box p {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.account-finance {
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    border-radius: 8px;
+}
+
+.creative-design {
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    border-radius: 8px;
+}
+
+.marketing-sales {
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    border-radius: 8px;
+}
+
+.engineering {
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    border-radius: 8px;
+}
+.feature-job-title {
+    text-align: center;
+    font-weight: 800;
+    font-size: 48px;
+    color: #1A1919;
+    margin-bottom: 10px;
+}
+
+.featured-job-subtitle {
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    color: #757575;
+}
+
+.feature-job-body{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+}
+
+.btn-center{
+    text-align: center;
+    margin-top: 20px;
+}
